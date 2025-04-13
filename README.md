@@ -117,5 +117,3 @@ public class Product {
 ```
 
 ---
-
-✅ **End of Chapter 1 Notes – Ready for Chapter 2!** 🚀
